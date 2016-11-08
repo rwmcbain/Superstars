@@ -1,0 +1,6 @@
+default:
+  adapater: mysql2
+  database: superstars
+  username: sinatra
+  password: password
+  host: localhost
